@@ -1,0 +1,6 @@
+node_modules/
+dist/
+# Google-Zugangsdaten niemals committen
+gcp-oauth.keys.json
+.gtasks-server-credentials.json
+.env
